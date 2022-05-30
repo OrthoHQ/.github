@@ -3,9 +3,7 @@
  
 **A bit about us:**
 
-🙋‍♀️ We're a fully remote team, fixing an infrastructure problem in the SDK space by building a multi-platform SDK which has all services pre-integrated! 
-
-👩‍💻 Useful resources - [Ortho-community-checkout](https://github.com/OrthoHQ/ortho-community-checkout) |   [React Native SDK](https://github.com/OrthoHQ/react-native-ortho)  
+🙋‍♀️ We're a fully remote team, fixing an infrastructure problem in the SDK space by building a multi-platform SDK which has all services pre-integrated!  
 
 🍿 Fun facts - The entire team is fully remote 😊
 
