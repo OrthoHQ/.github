@@ -3,7 +3,7 @@
  
 **A bit about us:**
 
-🙋‍♀️ We're a fully remote team, fixing an infrastructure problem in the SDK space by building a multi-platform SDK which has all services pre-integrated!  
+🙋‍♀️ We're building the infrastructure to help businessess and developers access every payment provider - with a single integration !  
 
 🍿 Fun facts - The entire team is fully remote 😊
 
