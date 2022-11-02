@@ -3,7 +3,7 @@
  
 **A bit about us:**
 
-🙋‍♀️ (Ortho)[https://tryortho.co] is building the infrastructure to help businessess and developers access every payment provider - with a single integration !  
+🙋‍♀️ [Ortho](https://tryortho.co) is building the infrastructure to help businessess and developers access every payment provider - with a single integration !  
 
 🍿 Fun facts - The entire team is fully remote 😊
 
